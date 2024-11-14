@@ -34,6 +34,7 @@ function rot13(str) {
 	return results;
 }
 
-console.log("These are results from rot13.js file");
+console.log("***Results from rot13.js file***");
 rot13("EBG13 rknzcyr.");
 rot13("This is my first ROT13 excercise!");
+console.log("\n");
