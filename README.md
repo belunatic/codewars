@@ -10,8 +10,10 @@ Working on codewars to practice my algorithm in my software engineering journey!
 * js file name : rot13.js
 </details>
 
-<detail>
-<summary>Multiplicative Persistence</summary> 
+<details>
+<summary>Multiplicative Persistence</summary>
+  
 * url: https://www.codewars.com/kata/5c942f40bc4575001a3ea7ec/train/javascript
+  
 * js file name : multiplicative_persistence.js
-<detail>
+</details>
