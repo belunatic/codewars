@@ -17,3 +17,11 @@ Working on codewars to practice my algorithm in my software engineering journey!
   
 * js file name : multiplicative_persistence.js
 </details>
+
+<details>
+<summary>Sum Strings as Numbers</summary>
+  
+* url: https://www.codewars.com/kata/5324945e2ece5e1f32000370/train/javascript
+  
+* js file name : sumStringAsNumber.js
+</details>
