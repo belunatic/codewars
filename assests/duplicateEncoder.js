@@ -35,4 +35,5 @@ console.log(duplicateEncode("din"), "(((");
 console.log(duplicateEncode("recede"), "()()()");
 console.log(duplicateEncode("Success"), ")())())");
 console.log(duplicateEncode("(( @"), "))((");
+console.log(duplicateEncode("eeeewwwww!"), "))))))))(");
 console.log("\n");
