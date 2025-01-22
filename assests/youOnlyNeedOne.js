@@ -15,6 +15,7 @@ function check(a, x) {
 
 console.log("***Results youOnlyNeedOne.js***");
 console.log(check([66, 101], 66), true);
+console.log(check([66, 101, 99, 200, 213], 77), false);
 console.log(check([101, 45, 75, 105, 99, 107], 108), false);
 console.log(check(["t", "e", "s", "t"], "e"), true);
 console.log(check(["what", "a", "great", "kata"], "kat"), false);
