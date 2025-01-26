@@ -23,7 +23,7 @@ function remember(str) {
 }
 
 console.log("***Results remember.js***");
-console.log(remember("apple"), ["p"]);
+console.log(remember("appless"), ["p", "s"]);
 console.log(remember("limbojackassin the garden"), [
 	"a",
 	"s",
