@@ -70,8 +70,6 @@ function nameToSlices(name) {
 	return result;
 }
 
-// have fun!
-
 console.log("***Results breadSandwich.js***");
 console.log(slicesToName(false), null);
 console.log(slicesToName("bread"), null);
