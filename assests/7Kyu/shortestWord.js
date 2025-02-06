@@ -10,7 +10,6 @@ URL: https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/javascript
 function findShort(s) {
 	let stringArr = s.split(" ");
 	let small = stringArr[0].length;
-	console.log(stringArr);
 	stringArr.forEach((el) => {
 		el.length < small ? (small = el.length) : "";
 	});
