@@ -44,6 +44,8 @@ function getVillainName(birthday) {
 
 console.log("***Results birthdayVillain.js***");
 console.log(getVillainName(new Date("April 27, 1975 23:15:30")));
+console.log(getVillainName(new Date("April 24, 1975 23:15:30")));
+console.log(getVillainName(new Date("July 25, 1975 23:15:30")));
 console.log(getVillainName(new Date("February 22, 1975 23:15:30")));
 console.log(getVillainName(new Date()));
 console.log("\n");
