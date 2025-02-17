@@ -48,4 +48,5 @@ console.log(
 	"\t Th3s 3s 1n 2nc4d3ng t2st."
 );
 console.log(decode("h2ll4"), "\t hello");
+console.log(decode("abel knows me"), "\t 1b2l kn4ws m2");
 console.log("\n");
