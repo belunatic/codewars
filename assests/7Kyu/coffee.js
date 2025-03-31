@@ -14,5 +14,5 @@ function coffee(str) {
 }
 
 console.log("***Results coffee.js***");
-console.log(coffee("Is that coffee?"), "Is that COFFEE");
+console.log(coffee("Is that coffee?"), "\t Is that COFFEE");
 console.log("\n");

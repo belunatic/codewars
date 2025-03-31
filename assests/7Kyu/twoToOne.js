@@ -17,15 +17,13 @@ function longest(s1, s2) {
 		map.includes(letter) ? "" : map.push(letter);
 	}
 
-	console.log(map.join(""));
-	console.log(map.sort((a, b) => a - b).join(""));
 	return map.sort().join("");
 }
 
 console.log("***Results twoToOne.js***");
-console.log(longest("aretheyhere", "yestheyarehere"), "aehrsty");
+console.log(longest("aretheyhere", "yestheyarehere"), "\t aehrsty");
 console.log(
 	longest("inmanylanguages", "theresapairoffunctions"),
-	"acefghilmnoprstuy"
+	"\t acefghilmnoprstuy"
 );
 console.log("\n");
